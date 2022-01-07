@@ -3,7 +3,7 @@
 # by bayu riski
 
 :'
-   budi memiliki argument abc samapi u
+   budi memiliki argument abc samapai u
    jumlah argument tersebut adalah umur bu yanti
    dan adi masi umur 2 tahun berapakah umur pak yanto ?
 
