@@ -3,6 +3,7 @@
 </h1></div>
 
 ```bash
+#!/bin/bash
 # by bayu riski
 
 :'
